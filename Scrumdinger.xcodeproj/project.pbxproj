@@ -17,6 +17,7 @@
 		C51CAEAA2BB8485C008E0A85 /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = C51CAEA92BB8485C008E0A85 /* TrailingIconLabelStyle.swift */; };
 		C51CAEAC2BB84A72008E0A85 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C51CAEAB2BB84A72008E0A85 /* ScrumsView.swift */; };
 		C51CAEAE2BB8616D008E0A85 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C51CAEAD2BB8616D008E0A85 /* DetailView.swift */; };
+		C59FA9472BBE9B51002CA5B6 /* DetailEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C59FA9462BBE9B51002CA5B6 /* DetailEditView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		C51CAEA92BB8485C008E0A85 /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 		C51CAEAB2BB84A72008E0A85 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 		C51CAEAD2BB8616D008E0A85 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		C59FA9462BBE9B51002CA5B6 /* DetailEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailEditView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				C51CAEA92BB8485C008E0A85 /* TrailingIconLabelStyle.swift */,
 				C51CAEAB2BB84A72008E0A85 /* ScrumsView.swift */,
 				C51CAEAD2BB8616D008E0A85 /* DetailView.swift */,
+				C59FA9462BBE9B51002CA5B6 /* DetailEditView.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 			files = (
 				C51CAEA62BB843F5008E0A85 /* DailyScrum.swift in Sources */,
 				C51CAEAE2BB8616D008E0A85 /* DetailView.swift in Sources */,
+				C59FA9472BBE9B51002CA5B6 /* DetailEditView.swift in Sources */,
 				C51CAEAA2BB8485C008E0A85 /* TrailingIconLabelStyle.swift in Sources */,
 				C51CAEA22BB84294008E0A85 /* Theme.swift in Sources */,
 				C51CAEAC2BB84A72008E0A85 /* ScrumsView.swift in Sources */,
